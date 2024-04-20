@@ -1,4 +1,5 @@
 # Linear Regression
+
 This repository provides a comprehensive guide to Linear Regression, including implementing it from scratch, performing Exploratory Data Analysis (EDA), and applying Feature Engineering techniques. Linear Regression is a fundamental supervised learning algorithm used for predicting continuous target variables based on one or more input features.
 
 ## Contents
